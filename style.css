@@ -28,7 +28,8 @@ a {
 main {
   background-image: linear-gradient(
     to right,
-    rgb(0, 166, 255),
+    rgb(29, 119, 255),
+    rgb(0, 166, 255) 20%,
     rgb(217, 246, 252)
   );
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
